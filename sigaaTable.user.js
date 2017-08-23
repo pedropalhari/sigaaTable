@@ -2,8 +2,8 @@
 // @name         tableSigaa
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Cria uma tabela no Sigaa com as matérias
+// @author       Pedro Palhari
 // @match        https://sigaa.unifei.edu.br/sigaa/portais/discente/discente.jsf
 // @grant        none
 // ==/UserScript==
